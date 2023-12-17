@@ -1,0 +1,30 @@
+body {
+	margin:10px;
+	font-family: Times New Roman;
+	background-color: paleturquoise;
+	margin-left: 300px ;
+	margin-right: 300px ;
+	line-height: 1.6;
+}
+h1 {text-align: center;}
+
+
+
+h2 {
+	text-align: center;
+}
+
+.h2 {
+	font-size: larger;
+}
+.p{
+	margin-bottom: 10px;
+}
+img {
+	display: ;
+	width: 50%;
+	height: auto;
+	margin: 30px auto;
+}
+
+/*Your CSS goes here.*/
